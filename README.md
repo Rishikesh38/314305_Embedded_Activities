@@ -3,7 +3,7 @@ details related to embedded activity
 # Embedded C Case Study
 
 # Problem Statement: 
-![]()
+![](https://github.com/Rishikesh38/Activity_Embedded/blob/main/activity_list.png)
 1. Button Sensor will check the passenger is sited or not
 2. Temperature sensor works as :
 
